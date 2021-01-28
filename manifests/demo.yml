@@ -17,7 +17,6 @@ metadata:
     source: demo
     stack: frontend
     app: spinnaker
-    func: deployment
 spec:
   replicas: 3
   selector:
